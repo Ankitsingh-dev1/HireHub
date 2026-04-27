@@ -1,16 +1,50 @@
-# React + Vite
+HireHub 🚀
+HireHub is a modern Job Portal Web Application built using React + Vite. It helps users explore jobs, search opportunities, filter listings, and save jobs for later. The project is designed with a clean UI and smooth user experience for freshers and job seekers.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔍 Search Jobs by title or keyword
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📂 Filter Jobs by category
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📍 Filter Jobs by location
+
+
+📄 View Job Details
+
+
+❤️ Save Jobs to LocalStorage
+
+
+📑 Pagination for multiple job listings
+
+
+📱 Fully Responsive Design
+
+
+⚡ Fast performance with Vite
+
+
+
+🛠️ Tech Stack
+
+
+Frontend: React.js
+
+
+Build Tool: Vite
+
+
+Routing: React Router DOM
+
+
+State Management: useState, useEffect
+
+
+Storage: LocalStorage
+
+
+Styling: CSS /  Tailwind
